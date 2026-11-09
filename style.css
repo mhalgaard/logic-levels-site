@@ -15,3 +15,4 @@ a { color: var(--accent); }
 .games li { background: var(--surface); border: 1px solid var(--line); border-radius: 14px; padding: 14px 16px; }
 .games strong { color: var(--text); display: block; }
 footer { margin-top: 48px; padding-top: 20px; border-top: 1px solid var(--line); display: flex; gap: 18px; flex-wrap: wrap; font-size: 14px; }
+.cta { display: inline-block; margin-top: 8px; padding: 14px 22px; border-radius: 14px; background: linear-gradient(180deg, #9aa6ff, #7c8cff); color: #fff; font-weight: 700; text-decoration: none; box-shadow: 0 6px 20px rgba(124, 140, 255, 0.35); }
